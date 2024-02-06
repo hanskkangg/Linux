@@ -1,4 +1,5 @@
-# Linux<br>
+# Linux Miscellaneous Project
+<br>
 myGrade.txt - Bash Script. The purpose of this script is to calculate the final grade and display the letter grade for a course.
 <br><br>
 myCalc.txt -  This interactive Bash script, provides a user-friendly menu-driven interface for performing basic mathematical calculations.
